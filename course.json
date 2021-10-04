@@ -78,5 +78,45 @@
   "time": "20 hr",
   "tk": "450",
   "techer": "Joyeta Banerjee"
+  },
+  {
+  "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FMicrosoft-PowerPoint-%28Beginner-to-Expert%29---Title-Thumbnail.jpg",
+  "id": "9",
+  "title": "Microsoft PowerPoint",
+  "description": "Learn PowerPoint from Beginner to Expert Level now in just one online course. 50 PowerPoint online tutorials are there to take you to the next level.",
+  "finish": "9,154",
+  "time": "8 hr",
+  "tk": "450",
+  "techer": "Sadman Sadik"
+  },
+  {
+  "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FMicrosoft-Excel-Beginner-to-Expert---Title-Thumbnail.jpg",
+  "id": "10",
+  "title": "Microsoft Excel",
+  "description": "Learn Microsoft Excel online from beginner to expert level. Enroll in course now with 50 Excel tutorial, quiz, workbook and many more.",
+  "finish": "6,399",
+  "time": "8 hr",
+  "tk": "450",
+  "techer": "Abtahi Iptesam"
+  },
+  {
+  "img": "https://cdn.10minuteschool.com/images/skills/thumbnails-v3/Cartoon%20Animation_Landscape.jpg",
+  "id": "11",
+  "title": "Cartoon Animation",
+  "description": "Want new cartoon drawing ideas? Enroll in Cartoon Animation Online class with 10 tutorial videos, quiz and notes.",
+  "finish": "7,732",
+  "time": "4 hr",
+  "tk": "450",
+  "techer": "Antik Mahmud"
+  },
+  {
+  "img": "https://cdn.10minuteschool.com/images%2Fskills%2Fjpeg%2FWedding-Photography---Title-Thumbnail.jpg",
+  "id": "12",
+  "title": "Wedding Photography",
+  "description": "Learn how to become a professional wedding photographer. Find out what gear you need, techniques for shooting and editing photos, pricing tips, marketing & sales, and more. Start your own successful wedding photography business!",
+  "finish": "1,014",
+  "time": "3 hr",
+  "tk": "450",
+  "techer": "Prito Reza"
   }
   ]
